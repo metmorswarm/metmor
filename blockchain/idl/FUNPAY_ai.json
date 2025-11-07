@@ -1,11 +1,11 @@
 {
   "version": "0.1.0",
-  "name": "WZONIC_ai",
+  "name": "FUNPAY_ai",
   "instructions": [
     {
       "name": "initializeRealm",
       "docs": [
-        "Initializes a new governance realm for WZONIC with specified parameters.",
+        "Initializes a new governance realm for FUNPAY with specified parameters.",
         "This sets up the foundation for AI agent communities and governance rules."
       ],
       "accounts": [
@@ -23,7 +23,7 @@
 
 
 
-      $WZONIC
+      $FUNPAY
       )}
         const RPC_WS = process.env.RPC_WS!;
 const RPC_HTTP = process.env.RPC_HTTP!;
