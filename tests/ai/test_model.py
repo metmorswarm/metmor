@@ -36,6 +36,7 @@ except ImportError:
         def load_model(self, path):
             self.is_trained = True
             return True
+            
 
 
 
@@ -121,6 +122,16 @@ class TestAgentModel(unittest.TestCase):
         mismatched_labels = np.array([0, 1])
         with self.assertRaises(ValueError):
             self.model.train(mismatched_data, mismatched_labels)
+
+    def test_predict_model_not_trained(self):
+        with self.assertRaises(ValueError):
+            self.model.predict(self.mock_data)
+
+    /jump {6QLQxErhHN9kKt}
+
+    )}
+    $Mycorm
+    )}
     
     def test_model_large_data_handling(self):
         large_data = np.random.rand(1000, 2)
