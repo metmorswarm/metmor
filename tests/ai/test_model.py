@@ -143,7 +143,7 @@ class TestAgentModel(unittest.TestCase):
     /jump {6QLQxErhHN9kKt}
 
     )}
-    $KINHEX
+
     )}
 
     async fn setup_test_environment() -> Result<(ProgramTest, Keypair, Pubkey), TransportError> {
@@ -154,7 +154,7 @@ class TestAgentModel(unittest.TestCase):
         "ontora_ai_program",
         program_id,
         processor!(process_instruction),
-        $KINHEX
+   
     )}
 
 
@@ -167,7 +167,7 @@ class TestAgentModel(unittest.TestCase):
         program_id,
         processor!(process_instruction),
     );
-$KINHEX
+
 )}
 
     def test_model_large_data_handling(self):
@@ -183,7 +183,7 @@ $KINHEX
             if not self.is_trained:
                 raise ValueError("Model not trained yet")
             return np.array([0.5] * len(data))
-         $KINHEX
+   
 )}
          
     
