@@ -1,16 +1,25 @@
-# DOLANA
+# OWLREE
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Solana](https://img.shields.io/badge/Solana-Web3-green.svg)](https://solana.com/)
 [![Status](https://img.shields.io/badge/Status-In%20Development-orange.svg)]()
 [![GitHub Issues](https://img.shields.io/github/issues/yourusername/ontora-ai.svg)](https://github.com/yourusername/ontora-ai/issues)
 
-[![Website](https://img.shields.io/badge/Website-DOLANA-blue?logo=google-chrome)](https://dolana.tech/)
-[![Twitter](https://img.shields.io/badge/Twitter-DOLANA-blue?logo=twitter)](https://x.com/DOLANATECH)
+[![Website](https://img.shields.io/badge/Website-OWLREE-blue?logo=google-chrome)](https://owlree.fun/)
+[![Twitter](https://img.shields.io/badge/Twitter-OWLREE-blue?logo=twitter)](https://x.com/OWLREEWEB)
 
-Dolana is a high-performance Solana fork inspired by the open, joyful spirit of Dogecoin, rebuilt to deliver a new kind of blockchain privacy—simple, friendly, and made for everyone.
-Instead of relying on heavy cryptographic systems or complex anonymity tools, Dolana introduces Friendly Privacy: a lightweight, non-intrusive protection layer that shields sensitive on-chain behavior without altering the user experience or compromising performance.
 
-Every transaction is processed through Solana-level parallel execution, keeping the network fast, efficient, and highly scalable. But unlike traditional transparent chains, Dolana softens public visibility, reducing exposure, preventing casual tracking, and allowing users to interact without feeling watched, analyzed, or profiled.
+🦉 Owlree — The Ascension Network
+“An ascending tree formed by owl nodes, collectively building an evolving on-chain cognitive network.”
 
-Guided by the Dogecoin ethos, Dolana removes unnecessary barriers and embraces a culture of openness, fun, and community ownership. Privacy becomes effortless rather than technical. Participation becomes inclusive rather than exclusive. The chain remains high-speed and developer-friendly, while also being warm, approachable, and socially protective.
+In the world of Owlree, every participant is not just a user — but an owl node, a symbol of wisdom, observation, and connection. Together, these nodes form a living structure known as the Ascension Tree, a decentralized network that grows through shared insight and interaction.
+
+At its core lies the ASC Protocol (Ascension Synchronization Code) — a mechanism that measures contribution, aligns relations between nodes, and continuously adjusts the height of each node’s perception. The more meaningful your contribution, the higher your node ascends within the tree, expanding its field of vision and influence.
+
+Owlree reimagines the blockchain as more than a ledger of data — it becomes a soil where cognition takes root. Instead of storing static information, the system transforms every transaction, idea, or collaborative act into nutrients for collective understanding.
+
+Through the constant exchange between owl nodes, the network grows, learns, and evolves. In this way, Owlree represents a new layer of Web3 — a cognitive infrastructure where wisdom itself becomes composable.
+
+Each interaction doesn’t just add data to the chain; it helps the tree ascend one branch higher toward collective awareness.
+
+Owlree is where wisdom takes flight, and the chain begins to think.
