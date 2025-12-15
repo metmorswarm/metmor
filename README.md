@@ -91,4 +91,12 @@ SPL-X3 is provided as experimental software. It does not guarantee profits or pr
 
 ---
 
-## Licen
+## License
+
+MIT License
+
+---
+
+**SPL-X3**
+
+When humans step out of the money flow, the protocol takes control.
