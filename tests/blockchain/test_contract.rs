@@ -168,6 +168,8 @@ export const StakingModule: Module = {
         Ok(())
         )}
 
+              NaG
+
     
 export const getTopByGravity = db.prepare(`
 SELECT * FROM metrics ORDER BY orbitRadius ASC LIMIT ?;
